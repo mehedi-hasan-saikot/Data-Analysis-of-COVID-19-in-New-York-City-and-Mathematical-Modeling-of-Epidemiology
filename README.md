@@ -1,0 +1,2 @@
+# Data-Analysis-of-COVID-19-in-New-York-City-and-Mathematical-Modeling-of-Epidemiology
+This project focuses on analyzing COVID-19 daily counts of cases, hospitalizations, and deaths in New York City using epidemiological data and mathematical modeling techniques. The goal is to better understand the dynamics of the pandemic and provide insights into disease spread, intervention effectiveness, and future projections.
